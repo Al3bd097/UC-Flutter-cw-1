@@ -6,6 +6,4 @@ void main() {
   print("First name: $firstName");
   print("Last name: $lastName");
   print("I'm $age , my hobby is $hobby");
-  
-  
   }
